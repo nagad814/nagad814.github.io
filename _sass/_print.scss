@@ -2,6 +2,7 @@
    {
     @page {
         size: A4;
+        margin: 20pt 5pt;
     }
     body {
        font-size: 10pt;
@@ -22,6 +23,14 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
+
+      .phone-link::after {
+         content: none !important;
+      }
+      .email-link::after {
+         content: none !important;
+      }
+
     }
 
     .remove-container.container-block {
@@ -47,6 +56,8 @@
 
     .project-link[href]:after {
       content: none !important;
-  }
+   }
+
+
 
 }
