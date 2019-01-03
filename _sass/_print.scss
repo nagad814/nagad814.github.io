@@ -4,13 +4,14 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
+       font-size: 10pt;
     }
 
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
+
    .main-wrapper .time {
        float: right;
         color: black !important;
@@ -31,9 +32,21 @@
        display: none;
     }
 
+    .fa-circle {
+      display: none;
+    }
+
     .skillset .level-bar-inner {
-       background-color: black !important;
+       background-color: grey !important;
        -webkit-print-color-adjust: exact; 
     }
+
+    .level-bar-inner-text {
+       color: white !important;
+    }
+
+    .project-link[href]:after {
+      content: none !important;
+  }
 
 }
