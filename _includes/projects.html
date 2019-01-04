@@ -23,13 +23,27 @@
         <a class="project-link" href="{{ project.link }}">{{ project.title }}</a>
       </span>
 
-      {% if project.tagline %}
+      <!-- {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
       {% if project.tech %}
+      <span class="project-sub-header">Technology used</span>
       - <span class="project-tech">{{ project.tech }}</span>
-      {% endif %}
+      {% endif %} -->
+      {{ project.tagline | markdownify }}
+      <div class="summary">
+          {% if project.tech %}
+          <span class="project-sub-header">Technology used</span>
+          - <span class="project-tech">{{ project.tech }}</span>
+          {% endif %}
+      </div>
+      <div class="summary">
+          {% if project.responsiblity %}
+          <span class="project-sub-header">Responsiblity </span>
+          - <span class="project-tech">{{ project.responsiblity }}</span>
+          {% endif %}
+      </div><!--//summary-->
 
     </div><!--//item-->
   {% endfor %}

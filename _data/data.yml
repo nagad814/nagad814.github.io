@@ -25,6 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    address: "8-2-601/G/57 Gowri Shankar Colony, BanjaraHills, Hyderbad, Telegana, India 500034"
 
     languages:
       - idiom: English
@@ -72,11 +73,7 @@ experiences:
       time: Mar 2018 - Present
       company: Evernym INC, Hyderbad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I was responsible to 
 
     - role: FreeLance Developer
       time: Feb 2017 - Feb 2018
@@ -124,11 +121,16 @@ projects:
     assignments:
       - title: ConnectMe / Connector-app
         link: "https://github.com/sovrin-foundation/connector-app"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "ConnectMe/ Connector-app is React Native Moblie Application, that is the primary user interface for interaction with Sovrin Ledger. The mobile application uses Evernym SDK at Native level to handle encryption, secure storage, and communication with the ledger. The Application is currently available to Enterprice customers and is in Closed Beta testing."
+
+
+        tech: "React Native, Flex, Android & IOS"
+        responsiblity: clean up crap
+        
 
       - title: Evernym SDK
         link: "https://github.com/evernym/sdk"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Evernym SDK"
 
       - title: VoxGuru App
         link: "http://www.pratibhamusic.com/voxguru.html"

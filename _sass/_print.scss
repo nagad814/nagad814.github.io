@@ -2,7 +2,6 @@
    {
     @page {
         size: A4;
-        margin: 20pt 5pt;
     }
     body {
        font-size: 10pt;
@@ -29,6 +28,9 @@
       }
       .email-link::after {
          content: none !important;
+      }
+      .address{
+         display: inline !important;
       }
 
     }

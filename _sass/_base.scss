@@ -91,6 +91,10 @@ p {
                 margin-bottom: 0;
             }
         }
+
+        .address{
+            display: none;
+        }
     }
     .container-block {
         padding: 30px;
@@ -204,10 +208,14 @@ p {
         margin-top: 0;
         margin-bottom: 5px;
     }
-    .project-tech {
-        font-size: 12px;
+    .project-sub-header {
+        font-size: 14px;
         font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 5px;
+        color: darken($theme-color, 15%);
     }
+
     .projects-section {
         .intro {
             margin-bottom: 30px;
