@@ -52,7 +52,9 @@ career-profile:
     summary: |
       I am Fullstack JS Developer with focus on React Native Mobile Application Development. Experienced in writing bridge methods for native IOS and Android plugin and integrate them with react-native. Proficient in setting up analytics, deep-linking and notification systems in Mobile applications.
 
-      My diverse work experience, as a Freelancer and a member of a high-performance team, gives me the ability to deliver projects on time with high efficiency.
+      My diverse work experience, as a Software Engineer in a high-performance team, as a Freelancer and CEO of a failed start-up, gives me the ability to deliver projects on time with high efficiency.  I have independently launched react native mobile app in google play store and apple app store. This apps has generated +10000 downloads, with revenue of USD +40000 till date.
+
+      I have strong foundations in cost analysis, scrum management, and data analytics with my experience of working as project manager and analyst at Amazon.
 
 education:
     - degree: B.Tech in Chemical Engineering (Discontinued)
@@ -60,86 +62,83 @@ education:
       time: 2005 - 2009
       # details:  
         # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
 
-        #   - Bullet point
-        #   - Bullet point
 
 experiences:
     - role: Software Engineer
       time: Mar 2018 - Present
       company: Evernym INC, Hyderbad
       details: |
-        I was responsible to 
+        __Projects__
+          - __ConnectMe/ Connector-app__ : A React Native Moblie Application which interacts with Sovrin Ledger. The application uses Indy SDK at Native level to handle encryption, secure storage, and communication with the ledger. The Application is currently available to Enterprise customers and is in Closed Beta testing.
 
-    - role: FreeLance Developer
-      time: Feb 2017 - Feb 2018
+            __Responsibilities__
+              - Access Compatibility and Risk of Native Plugin and integrate them into the application.
+              - Setup and maintain features such as Deeplink and feedback system. 
+              - Make UI components responsive and compatible for both IOS and Android
+              - Setup Build pipeline for Android App on Bitrise.
+              - Fix UI and Performance issues.  
+              <br />
+          - __Indy SDK__ : The core required to communicate with Hyperledge Indy.
+
+              __Responsibilities__
+              - Understand Libvcx methods and writing Wrappers for IOS and Android.
+              - Work on producing builds, and realsing IOS PODs.
+              - Write Bridge Methods. 
+              <br />
+
+    - role: FreeLance Developer and CEO at ANTS IT Solutions PVT Ltd
+      time: Feb 2016 - Feb 2018
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        A time period in my life with exceptional learning.  
 
-          - Bullet point
-          - Bullet point
+        __Projects__
+        - __VoxGuru Mobile Application__ : A FullStack Project with video hosting, cloud functions and a react native mobile application. The biggest challenge is the setup of payment solution for both Android and IOS in compliance with the platform guidelines.
 
-    - role: CEO & Developer
-      time: Aug 2015 - Feb 2017
-      company: Ants IT Solution Pvt Ltd
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          __Responsibilities__
+          - Assess the cost and compatibility of various cloud solutions.
+          - Build, Debug and Deploy React Native Mobile Application on Android PlayStore & IOS AppStore
+          - Setup Firebase Analytics and Cloud Functions 
+        - __Peek a boo Patterns Website__ :
 
-          - Bullet point
-          - Bullet point
-    
-    - role: Project Manager and SME 
-      time: Nov 2009 - Aug 2015
+    - role:  Project Manager, Data Analyst, Risk Investigator  
       company: Amazon Development Center India
+      time: Nov 2009 - Aug 2016
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Handled varoius levels of projects from SVP goals to kaizen.
+        - Worked on ETL, MySQL, large data sets, 
 
-          - Bullet point
-          - Bullet point
+        
+    
 
-projects:
-    title: Projects
-    intro: >
-      Software Development projects from the last 2 years, for which i was paid.
+# projects:
+#     title: Free Projects
+#     intro: >
+#       Software Development projects, for which i was not paid.
 
-    assignments:
-      - title: ConnectMe / Connector-app
-        link: "https://github.com/sovrin-foundation/connector-app"
-        tagline: "ConnectMe/ Connector-app is React Native Moblie Application, that is the primary user interface for interaction with Sovrin Ledger. The mobile application uses Evernym SDK at Native level to handle encryption, secure storage, and communication with the ledger. The Application is currently available to Enterprice customers and is in Closed Beta testing."
+#     assignments:
+#       - title: AnswerMe
+#         link: "https://github.com/nagad814/answerMe"
+#         tagline: "ConnectMe/ Connector-app is React Native Moblie Application, that is the primary user interface for interaction with Sovrin Ledger. The mobile application uses Evernym SDK at Native level to handle encryption, secure storage, and communication with the ledger. The Application is currently available to Enterprice customers and is in Closed Beta testing."
 
 
-        tech: "React Native, Flex, Android & IOS"
-        responsiblity: clean up crap
+#         tech: "React Native, Flex, Android & IOS"
+#         responsiblity: clean up crap
         
 
-      - title: Evernym SDK
-        link: "https://github.com/evernym/sdk"
-        tagline: "Evernym SDK"
+#       - title: Evernym SDK
+#         link: "https://github.com/evernym/sdk"
+#         tagline: "Evernym SDK"
 
-      - title: VoxGuru App
-        link: "http://www.pratibhamusic.com/voxguru.html"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: VoxGuru App
+#         link: "http://www.pratibhamusic.com/voxguru.html"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Peek a boo Patterns
-        link: "https://www.peekaboopatterns.com/"
-        tagline: "The entire UI redesigned in 15 days, at minimal cost."
-        tech: "JQuery, Bootstrap "
+#       - title: Peek a boo Patterns
+#         link: "https://www.peekaboopatterns.com/"
+#         tagline: "The entire UI redesigned in 15 days, at minimal cost."
+#         tech: "JQuery, Bootstrap "
+  
 
 # publications:
 #     title: Publications
