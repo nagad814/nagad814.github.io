@@ -84,13 +84,13 @@ experiences:
               __Responsibilities__
               - Understand Libvcx methods and writing Wrappers for IOS and Android.
               - Work on producing builds, and realsing IOS PODs.
-              - Write Bridge Methods. 
+              - Write React Native Bridge Methods. 
               <br />
 
     - role: FreeLance Developer and CEO at ANTS IT Solutions PVT Ltd
       time: Feb 2016 - Feb 2018
       details: |
-        A time period in my life with exceptional learning.  
+       A period of time, with an exceptional amount of learning
 
         __Projects__
         - __VoxGuru Mobile Application__ : A FullStack Project with video hosting, cloud functions and a react native mobile application. The biggest challenge is the setup of payment solution for both Android and IOS in compliance with the platform guidelines.
@@ -99,7 +99,19 @@ experiences:
           - Assess the cost and compatibility of various cloud solutions.
           - Build, Debug and Deploy React Native Mobile Application on Android PlayStore & IOS AppStore
           - Setup Firebase Analytics and Cloud Functions 
-        - __Peek a boo Patterns Website__ :
+          <br />
+
+        - __ConnectU Application__ : A Distributed Wifi Network, built as part of ANTS IT Solutions PVT LTD.  
+
+          __Responsibilities__
+            - Built an AAA system using FreeRadius 2.0, with a custom data store using REST API, AWS Lambda and DynamoDB.
+            - Worked on an Ionic Mobile Application, which controls device WIFI
+            - Using Angular 4 and Sails built an administrative system.
+            <br />
+
+        - __Peek a boo Patterns Website__ : An UI redesign project of Shopify based E-Commerce website.  
+        - __Flikster Application__ : Tech Team Managment and SCRUM Master role.
+
 
     - role:  Project Manager, Data Analyst, Risk Investigator  
       company: Amazon Development Center India
